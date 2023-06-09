@@ -37,3 +37,6 @@ Hey all, just getting used to running with the PR process again.
 
 ----
 pdcoded :: Long live Internet and OpenSouce !
+
+---
+* [timewasteindustry](https://github.com/timewasteindustry) Heyo to everyone! I'm from Germany and this is gonna be my first open-source project, I'll try my best to help out where I can!
